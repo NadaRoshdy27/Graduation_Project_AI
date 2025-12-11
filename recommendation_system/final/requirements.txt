@@ -1,0 +1,31 @@
+# FastAPI and Server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Machine Learning
+lightfm==1.17
+scikit-learn==1.3.2
+prophet==1.1.5
+numpy<2.0.0
+pandas==2.1.3
+scipy==1.11.4
+
+# Data Processing
+pyarrow==14.0.1
+
+# Utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+
+# Jupyter for EDA
+jupyter==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Testing (optional)
+pytest==7.4.3
+httpx==0.25.2

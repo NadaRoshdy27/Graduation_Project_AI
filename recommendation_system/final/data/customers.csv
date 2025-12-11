@@ -1,0 +1,1001 @@
+customer_id,age,gender,location,preferred_category
+1,56,Female,Chicago,Home & Garden
+2,69,Male,San Diego,Sports & Outdoors
+3,46,Male,Philadelphia,Sports & Outdoors
+4,32,Male,Phoenix,Fashion
+5,60,Male,Houston,Sports & Outdoors
+6,25,Male,San Diego,Fashion
+7,38,Male,San Diego,Sports & Outdoors
+8,56,Male,New York,Sports & Outdoors
+9,36,Male,Dallas,Fashion
+10,40,Female,Phoenix,Beauty & Health
+11,28,Female,Houston,Sports & Outdoors
+12,28,Female,Philadelphia,Home & Garden
+13,41,Female,Philadelphia,Beauty & Health
+14,53,Female,Los Angeles,Fashion
+15,57,Male,San Diego,Beauty & Health
+16,41,Female,San Antonio,Electronics
+17,20,Female,New York,Electronics
+18,39,Female,Phoenix,Sports & Outdoors
+19,19,Male,Philadelphia,Sports & Outdoors
+20,41,Male,Houston,Home & Garden
+21,61,Male,Los Angeles,Beauty & Health
+22,47,Male,Houston,Electronics
+23,55,Female,New York,Sports & Outdoors
+24,19,Female,San Antonio,Beauty & Health
+25,38,Male,Los Angeles,Sports & Outdoors
+26,50,Other,Los Angeles,Sports & Outdoors
+27,29,Female,Dallas,Electronics
+28,39,Male,Phoenix,Electronics
+29,61,Male,Los Angeles,Sports & Outdoors
+30,42,Male,Dallas,Fashion
+31,66,Male,Dallas,Sports & Outdoors
+32,44,Male,New York,Sports & Outdoors
+33,59,Male,Chicago,Home & Garden
+34,45,Male,Houston,Home & Garden
+35,33,Male,San Antonio,Home & Garden
+36,32,Female,San Jose,Fashion
+37,64,Male,Houston,Fashion
+38,68,Female,Los Angeles,Sports & Outdoors
+39,61,Male,San Antonio,Home & Garden
+40,69,Other,Philadelphia,Fashion
+41,20,Male,Chicago,Electronics
+42,54,Male,Philadelphia,Sports & Outdoors
+43,68,Other,Philadelphia,Beauty & Health
+44,24,Female,Phoenix,Sports & Outdoors
+45,38,Female,Houston,Beauty & Health
+46,26,Male,San Jose,Home & Garden
+47,56,Male,New York,Beauty & Health
+48,35,Female,San Jose,Home & Garden
+49,21,Female,Philadelphia,Electronics
+50,42,Female,Los Angeles,Beauty & Health
+51,31,Female,Chicago,Sports & Outdoors
+52,67,Male,San Diego,Home & Garden
+53,26,Female,San Jose,Sports & Outdoors
+54,43,Male,Philadelphia,Fashion
+55,19,Male,Chicago,Home & Garden
+56,37,Male,San Antonio,Beauty & Health
+57,45,Female,Houston,Home & Garden
+58,64,Male,Dallas,Sports & Outdoors
+59,24,Male,Phoenix,Electronics
+60,61,Female,Chicago,Home & Garden
+61,25,Male,Los Angeles,Beauty & Health
+62,64,Female,Los Angeles,Fashion
+63,52,Male,Chicago,Electronics
+64,31,Female,Los Angeles,Fashion
+65,34,Female,Houston,Home & Garden
+66,53,Male,Los Angeles,Sports & Outdoors
+67,67,Male,San Jose,Sports & Outdoors
+68,57,Male,Dallas,Beauty & Health
+69,21,Male,Los Angeles,Sports & Outdoors
+70,19,Other,Dallas,Electronics
+71,23,Male,Philadelphia,Sports & Outdoors
+72,59,Female,New York,Beauty & Health
+73,21,Male,Houston,Home & Garden
+74,46,Female,New York,Home & Garden
+75,35,Female,Philadelphia,Sports & Outdoors
+76,43,Female,Houston,Fashion
+77,61,Male,Chicago,Home & Garden
+78,51,Male,Chicago,Sports & Outdoors
+79,27,Male,Dallas,Beauty & Health
+80,53,Female,Philadelphia,Sports & Outdoors
+81,31,Female,Dallas,Home & Garden
+82,48,Other,Phoenix,Beauty & Health
+83,65,Male,Los Angeles,Sports & Outdoors
+84,32,Female,San Diego,Electronics
+85,25,Female,Phoenix,Beauty & Health
+86,31,Male,Los Angeles,Electronics
+87,40,Male,Houston,Fashion
+88,57,Female,Dallas,Beauty & Health
+89,38,Female,Houston,Electronics
+90,33,Female,Houston,Home & Garden
+91,62,Male,Los Angeles,Home & Garden
+92,35,Female,Philadelphia,Fashion
+93,64,Male,Los Angeles,Beauty & Health
+94,41,Male,San Antonio,Beauty & Health
+95,43,Male,Chicago,Beauty & Health
+96,42,Female,Chicago,Fashion
+97,62,Female,Phoenix,Beauty & Health
+98,58,Female,Chicago,Home & Garden
+99,46,Male,Los Angeles,Electronics
+100,32,Female,San Jose,Home & Garden
+101,62,Male,Dallas,Home & Garden
+102,18,Female,Los Angeles,Electronics
+103,42,Male,Los Angeles,Home & Garden
+104,24,Male,San Diego,Fashion
+105,26,Male,Dallas,Electronics
+106,41,Male,San Antonio,Home & Garden
+107,18,Female,Chicago,Sports & Outdoors
+108,61,Female,Dallas,Home & Garden
+109,25,Male,Chicago,Fashion
+110,41,Female,Phoenix,Beauty & Health
+111,28,Male,Dallas,Home & Garden
+112,68,Female,Chicago,Beauty & Health
+113,34,Female,San Antonio,Sports & Outdoors
+114,25,Female,New York,Home & Garden
+115,52,Male,Houston,Electronics
+116,52,Female,Houston,Beauty & Health
+117,50,Female,San Antonio,Sports & Outdoors
+118,22,Male,San Diego,Electronics
+119,59,Male,New York,Electronics
+120,56,Female,Phoenix,Electronics
+121,58,Female,San Antonio,Electronics
+122,45,Female,Houston,Home & Garden
+123,24,Female,Houston,Home & Garden
+124,26,Female,Houston,Home & Garden
+125,25,Male,Philadelphia,Sports & Outdoors
+126,29,Male,San Antonio,Sports & Outdoors
+127,51,Male,Los Angeles,Sports & Outdoors
+128,50,Female,Phoenix,Fashion
+129,65,Male,Houston,Sports & Outdoors
+130,40,Female,Chicago,Home & Garden
+131,41,Female,San Antonio,Home & Garden
+132,54,Female,Philadelphia,Fashion
+133,52,Male,San Antonio,Fashion
+134,61,Female,Phoenix,Sports & Outdoors
+135,57,Male,Philadelphia,Beauty & Health
+136,39,Female,Phoenix,Fashion
+137,44,Male,San Antonio,Electronics
+138,52,Male,Los Angeles,Home & Garden
+139,18,Female,Phoenix,Electronics
+140,52,Male,Philadelphia,Home & Garden
+141,54,Male,Philadelphia,Home & Garden
+142,64,Female,Phoenix,Fashion
+143,31,Female,San Jose,Fashion
+144,20,Female,San Antonio,Electronics
+145,18,Female,San Jose,Home & Garden
+146,22,Female,San Diego,Electronics
+147,43,Male,San Antonio,Beauty & Health
+148,31,Male,Phoenix,Electronics
+149,56,Male,New York,Sports & Outdoors
+150,44,Female,Phoenix,Electronics
+151,26,Female,San Jose,Sports & Outdoors
+152,32,Male,Los Angeles,Sports & Outdoors
+153,32,Male,Phoenix,Sports & Outdoors
+154,43,Female,Phoenix,Beauty & Health
+155,59,Male,Los Angeles,Electronics
+156,30,Female,Phoenix,Electronics
+157,68,Female,Houston,Beauty & Health
+158,49,Female,New York,Home & Garden
+159,56,Male,Chicago,Fashion
+160,66,Female,New York,Electronics
+161,69,Female,Phoenix,Fashion
+162,49,Female,Houston,Beauty & Health
+163,21,Female,San Antonio,Home & Garden
+164,47,Female,Phoenix,Home & Garden
+165,54,Female,San Jose,Home & Garden
+166,40,Male,Houston,Beauty & Health
+167,56,Female,Los Angeles,Sports & Outdoors
+168,62,Female,Houston,Sports & Outdoors
+169,32,Male,Los Angeles,Fashion
+170,60,Female,San Diego,Sports & Outdoors
+171,46,Female,Chicago,Sports & Outdoors
+172,53,Female,Dallas,Home & Garden
+173,30,Male,Houston,Home & Garden
+174,49,Male,Philadelphia,Fashion
+175,24,Other,San Jose,Electronics
+176,68,Female,Phoenix,Fashion
+177,39,Male,San Jose,Fashion
+178,45,Female,New York,Beauty & Health
+179,19,Female,Dallas,Beauty & Health
+180,59,Female,New York,Fashion
+181,62,Female,San Diego,Fashion
+182,23,Male,Dallas,Fashion
+183,45,Male,Dallas,Sports & Outdoors
+184,45,Male,New York,Beauty & Health
+185,61,Female,Los Angeles,Fashion
+186,61,Male,New York,Home & Garden
+187,37,Male,San Jose,Home & Garden
+188,47,Male,Los Angeles,Sports & Outdoors
+189,28,Female,San Jose,Sports & Outdoors
+190,45,Female,San Diego,Electronics
+191,42,Male,Phoenix,Electronics
+192,56,Male,San Antonio,Electronics
+193,50,Female,Los Angeles,Sports & Outdoors
+194,18,Male,San Diego,Sports & Outdoors
+195,44,Male,Philadelphia,Sports & Outdoors
+196,69,Male,San Diego,Home & Garden
+197,30,Male,New York,Sports & Outdoors
+198,58,Male,New York,Home & Garden
+199,20,Female,San Antonio,Electronics
+200,56,Male,San Diego,Electronics
+201,23,Female,Chicago,Electronics
+202,25,Male,Phoenix,Fashion
+203,44,Female,New York,Fashion
+204,26,Female,San Antonio,Beauty & Health
+205,54,Male,Phoenix,Beauty & Health
+206,50,Female,San Diego,Beauty & Health
+207,68,Male,San Diego,Fashion
+208,59,Other,Dallas,Fashion
+209,61,Male,San Antonio,Beauty & Health
+210,41,Male,New York,Beauty & Health
+211,32,Male,Chicago,Sports & Outdoors
+212,49,Other,San Diego,Beauty & Health
+213,49,Female,Chicago,Sports & Outdoors
+214,41,Female,San Diego,Home & Garden
+215,58,Male,New York,Fashion
+216,69,Female,Phoenix,Beauty & Health
+217,66,Male,Houston,Fashion
+218,66,Female,Phoenix,Fashion
+219,69,Male,San Diego,Fashion
+220,29,Male,San Jose,Home & Garden
+221,56,Male,Houston,Electronics
+222,19,Male,Houston,Beauty & Health
+223,20,Female,Chicago,Electronics
+224,66,Male,San Antonio,Electronics
+225,54,Female,Chicago,Electronics
+226,66,Male,Chicago,Fashion
+227,34,Female,San Jose,Sports & Outdoors
+228,66,Male,Phoenix,Fashion
+229,19,Male,Phoenix,Fashion
+230,19,Female,Philadelphia,Electronics
+231,45,Male,San Diego,Fashion
+232,40,Male,San Jose,Electronics
+233,54,Female,Philadelphia,Sports & Outdoors
+234,49,Female,New York,Beauty & Health
+235,50,Male,San Diego,Electronics
+236,18,Male,San Diego,Sports & Outdoors
+237,36,Female,Dallas,Beauty & Health
+238,19,Male,Dallas,Home & Garden
+239,61,Male,Los Angeles,Electronics
+240,43,Male,Los Angeles,Electronics
+241,49,Female,Chicago,Home & Garden
+242,23,Female,New York,Home & Garden
+243,49,Male,Houston,Electronics
+244,21,Male,Houston,Home & Garden
+245,28,Male,Dallas,Fashion
+246,34,Female,Dallas,Beauty & Health
+247,55,Male,Dallas,Beauty & Health
+248,41,Male,San Jose,Beauty & Health
+249,22,Female,San Antonio,Fashion
+250,69,Male,Los Angeles,Home & Garden
+251,51,Female,San Jose,Sports & Outdoors
+252,23,Male,Phoenix,Home & Garden
+253,39,Male,Houston,Electronics
+254,28,Male,San Diego,Beauty & Health
+255,65,Female,Los Angeles,Home & Garden
+256,33,Female,Philadelphia,Sports & Outdoors
+257,50,Female,Phoenix,Electronics
+258,26,Male,Los Angeles,Fashion
+259,23,Female,San Jose,Fashion
+260,33,Male,New York,Sports & Outdoors
+261,46,Male,San Diego,Electronics
+262,20,Female,Los Angeles,Beauty & Health
+263,37,Male,San Antonio,Home & Garden
+264,53,Male,Dallas,Electronics
+265,36,Male,Dallas,Fashion
+266,43,Male,San Diego,Sports & Outdoors
+267,20,Male,San Jose,Sports & Outdoors
+268,36,Female,Dallas,Home & Garden
+269,37,Male,Los Angeles,Sports & Outdoors
+270,49,Female,Philadelphia,Sports & Outdoors
+271,24,Female,Houston,Electronics
+272,69,Male,Houston,Beauty & Health
+273,58,Male,Phoenix,Home & Garden
+274,50,Male,Chicago,Electronics
+275,57,Female,New York,Beauty & Health
+276,56,Male,San Diego,Electronics
+277,35,Female,Phoenix,Electronics
+278,57,Male,Chicago,Sports & Outdoors
+279,18,Female,San Jose,Beauty & Health
+280,28,Male,San Antonio,Home & Garden
+281,45,Male,San Antonio,Home & Garden
+282,42,Female,New York,Beauty & Health
+283,67,Female,Dallas,Sports & Outdoors
+284,40,Male,Los Angeles,Fashion
+285,48,Female,Phoenix,Electronics
+286,47,Female,Phoenix,Sports & Outdoors
+287,59,Female,San Diego,Beauty & Health
+288,52,Female,San Diego,Electronics
+289,24,Male,San Antonio,Home & Garden
+290,33,Male,San Antonio,Fashion
+291,43,Male,Philadelphia,Home & Garden
+292,65,Female,Philadelphia,Beauty & Health
+293,69,Female,Dallas,Electronics
+294,66,Male,Philadelphia,Beauty & Health
+295,19,Male,Los Angeles,Electronics
+296,18,Female,Los Angeles,Sports & Outdoors
+297,65,Other,Phoenix,Fashion
+298,29,Female,Houston,Sports & Outdoors
+299,22,Male,Los Angeles,Sports & Outdoors
+300,54,Male,Chicago,Beauty & Health
+301,49,Male,San Antonio,Fashion
+302,26,Female,San Diego,Electronics
+303,58,Male,Philadelphia,Electronics
+304,52,Female,Phoenix,Home & Garden
+305,36,Male,New York,Electronics
+306,65,Female,San Diego,Beauty & Health
+307,33,Female,Chicago,Sports & Outdoors
+308,20,Female,Philadelphia,Sports & Outdoors
+309,37,Male,Chicago,Sports & Outdoors
+310,41,Male,San Antonio,Fashion
+311,50,Male,San Antonio,Electronics
+312,41,Female,Dallas,Beauty & Health
+313,69,Female,Phoenix,Fashion
+314,28,Female,San Diego,Home & Garden
+315,66,Female,San Jose,Beauty & Health
+316,25,Female,San Jose,Beauty & Health
+317,53,Male,San Diego,Beauty & Health
+318,55,Female,New York,Sports & Outdoors
+319,57,Male,Phoenix,Beauty & Health
+320,37,Male,Chicago,Electronics
+321,52,Female,New York,Beauty & Health
+322,65,Male,Houston,Sports & Outdoors
+323,42,Male,San Diego,Beauty & Health
+324,52,Female,Chicago,Home & Garden
+325,42,Male,San Jose,Home & Garden
+326,46,Female,Los Angeles,Sports & Outdoors
+327,35,Male,Dallas,Electronics
+328,63,Male,San Jose,Electronics
+329,35,Male,Phoenix,Fashion
+330,19,Male,San Antonio,Sports & Outdoors
+331,52,Female,Los Angeles,Beauty & Health
+332,33,Male,Dallas,Sports & Outdoors
+333,58,Female,Dallas,Fashion
+334,53,Male,Houston,Sports & Outdoors
+335,50,Female,Houston,Sports & Outdoors
+336,21,Female,Philadelphia,Fashion
+337,50,Female,San Jose,Electronics
+338,31,Male,San Jose,Beauty & Health
+339,38,Male,San Jose,Fashion
+340,65,Male,Philadelphia,Home & Garden
+341,37,Female,New York,Electronics
+342,25,Male,Dallas,Home & Garden
+343,24,Female,Los Angeles,Electronics
+344,20,Female,Phoenix,Beauty & Health
+345,34,Male,Dallas,Beauty & Health
+346,50,Female,Houston,Sports & Outdoors
+347,65,Male,Chicago,Home & Garden
+348,29,Male,San Antonio,Electronics
+349,68,Female,Philadelphia,Beauty & Health
+350,39,Female,San Diego,Fashion
+351,39,Female,Chicago,Beauty & Health
+352,63,Male,Phoenix,Fashion
+353,47,Male,San Jose,Electronics
+354,55,Female,Houston,Beauty & Health
+355,55,Female,Houston,Beauty & Health
+356,62,Female,Houston,Electronics
+357,68,Male,San Jose,Beauty & Health
+358,25,Female,San Diego,Fashion
+359,44,Male,Philadelphia,Beauty & Health
+360,44,Male,Chicago,Home & Garden
+361,51,Female,San Jose,Sports & Outdoors
+362,38,Male,Phoenix,Fashion
+363,47,Female,Philadelphia,Home & Garden
+364,50,Male,Phoenix,Electronics
+365,45,Male,Philadelphia,Fashion
+366,64,Female,San Diego,Sports & Outdoors
+367,50,Female,San Antonio,Sports & Outdoors
+368,22,Female,Phoenix,Electronics
+369,65,Female,San Jose,Electronics
+370,36,Female,Philadelphia,Fashion
+371,21,Female,Houston,Beauty & Health
+372,52,Female,Dallas,Electronics
+373,66,Male,Houston,Beauty & Health
+374,34,Female,New York,Home & Garden
+375,61,Male,San Antonio,Sports & Outdoors
+376,45,Other,San Antonio,Beauty & Health
+377,47,Female,Houston,Sports & Outdoors
+378,46,Male,Chicago,Beauty & Health
+379,63,Female,San Diego,Home & Garden
+380,23,Female,Phoenix,Electronics
+381,52,Male,San Jose,Home & Garden
+382,58,Female,San Antonio,Electronics
+383,54,Female,Houston,Electronics
+384,41,Male,Houston,Sports & Outdoors
+385,46,Female,San Diego,Home & Garden
+386,66,Male,San Diego,Beauty & Health
+387,63,Female,Los Angeles,Home & Garden
+388,48,Other,Los Angeles,Sports & Outdoors
+389,52,Female,Chicago,Electronics
+390,50,Male,Chicago,Sports & Outdoors
+391,69,Female,New York,Fashion
+392,38,Female,Chicago,Fashion
+393,49,Male,Philadelphia,Beauty & Health
+394,40,Female,San Diego,Sports & Outdoors
+395,50,Male,San Jose,Beauty & Health
+396,20,Female,Philadelphia,Beauty & Health
+397,35,Male,Phoenix,Fashion
+398,42,Male,Houston,Beauty & Health
+399,59,Male,Chicago,Fashion
+400,48,Female,Houston,Electronics
+401,20,Male,San Antonio,Sports & Outdoors
+402,57,Female,New York,Beauty & Health
+403,63,Male,San Antonio,Fashion
+404,41,Male,New York,Home & Garden
+405,67,Female,Los Angeles,Beauty & Health
+406,49,Female,Houston,Electronics
+407,64,Male,New York,Electronics
+408,39,Female,Dallas,Home & Garden
+409,40,Female,Philadelphia,Fashion
+410,19,Female,New York,Beauty & Health
+411,44,Male,New York,Fashion
+412,59,Male,Philadelphia,Electronics
+413,19,Female,Houston,Fashion
+414,43,Male,Houston,Electronics
+415,34,Female,Philadelphia,Fashion
+416,57,Female,San Antonio,Home & Garden
+417,50,Female,Dallas,Sports & Outdoors
+418,26,Female,San Jose,Home & Garden
+419,60,Other,Phoenix,Home & Garden
+420,65,Male,Dallas,Sports & Outdoors
+421,56,Female,Houston,Sports & Outdoors
+422,46,Male,San Jose,Beauty & Health
+423,59,Male,Los Angeles,Beauty & Health
+424,43,Female,Chicago,Home & Garden
+425,52,Female,New York,Home & Garden
+426,67,Other,Philadelphia,Electronics
+427,42,Female,Philadelphia,Electronics
+428,41,Male,New York,Beauty & Health
+429,30,Male,Chicago,Beauty & Health
+430,24,Female,Phoenix,Electronics
+431,53,Male,Chicago,Electronics
+432,62,Male,San Jose,Fashion
+433,37,Male,Chicago,Fashion
+434,18,Male,San Jose,Electronics
+435,25,Male,Chicago,Fashion
+436,63,Male,Phoenix,Sports & Outdoors
+437,33,Male,Phoenix,Beauty & Health
+438,31,Male,Houston,Beauty & Health
+439,29,Other,New York,Electronics
+440,68,Male,Phoenix,Home & Garden
+441,40,Male,San Jose,Electronics
+442,32,Female,Phoenix,Fashion
+443,45,Male,Houston,Home & Garden
+444,51,Female,Philadelphia,Fashion
+445,19,Female,San Jose,Sports & Outdoors
+446,49,Male,Houston,Fashion
+447,40,Male,San Antonio,Sports & Outdoors
+448,39,Female,San Antonio,Sports & Outdoors
+449,68,Female,Los Angeles,Fashion
+450,42,Male,Chicago,Fashion
+451,39,Female,New York,Sports & Outdoors
+452,39,Male,San Diego,Home & Garden
+453,66,Other,Dallas,Sports & Outdoors
+454,69,Male,Houston,Beauty & Health
+455,59,Female,Philadelphia,Sports & Outdoors
+456,23,Female,Dallas,Home & Garden
+457,32,Female,Philadelphia,Beauty & Health
+458,60,Female,Dallas,Electronics
+459,54,Male,Houston,Electronics
+460,50,Male,San Diego,Home & Garden
+461,25,Male,Dallas,Sports & Outdoors
+462,61,Male,Houston,Fashion
+463,61,Female,Phoenix,Home & Garden
+464,22,Male,San Diego,Beauty & Health
+465,56,Male,San Jose,Beauty & Health
+466,21,Other,Philadelphia,Electronics
+467,23,Female,San Antonio,Beauty & Health
+468,62,Female,Chicago,Home & Garden
+469,49,Other,San Antonio,Beauty & Health
+470,69,Male,San Diego,Home & Garden
+471,47,Male,San Jose,Fashion
+472,64,Female,Philadelphia,Electronics
+473,52,Female,San Jose,Beauty & Health
+474,57,Male,Dallas,Home & Garden
+475,69,Female,Philadelphia,Sports & Outdoors
+476,33,Male,Dallas,Electronics
+477,30,Male,Houston,Fashion
+478,67,Female,San Diego,Home & Garden
+479,59,Female,Houston,Fashion
+480,47,Female,Los Angeles,Fashion
+481,36,Male,San Jose,Beauty & Health
+482,34,Female,Dallas,Beauty & Health
+483,36,Male,Phoenix,Home & Garden
+484,45,Male,Houston,Sports & Outdoors
+485,43,Female,Los Angeles,Home & Garden
+486,54,Female,New York,Sports & Outdoors
+487,43,Female,San Antonio,Fashion
+488,40,Female,Philadelphia,Electronics
+489,26,Female,Los Angeles,Home & Garden
+490,29,Female,San Diego,Home & Garden
+491,18,Male,Houston,Sports & Outdoors
+492,18,Male,San Diego,Fashion
+493,64,Male,San Antonio,Fashion
+494,51,Male,Phoenix,Sports & Outdoors
+495,49,Female,San Jose,Fashion
+496,65,Female,San Jose,Beauty & Health
+497,42,Male,San Diego,Electronics
+498,57,Male,Dallas,Home & Garden
+499,62,Female,Phoenix,Electronics
+500,18,Male,San Jose,Home & Garden
+501,33,Female,Phoenix,Beauty & Health
+502,56,Female,Los Angeles,Fashion
+503,22,Female,Phoenix,Sports & Outdoors
+504,39,Female,Chicago,Beauty & Health
+505,46,Female,San Antonio,Electronics
+506,20,Male,San Jose,Sports & Outdoors
+507,29,Female,Phoenix,Fashion
+508,43,Female,San Diego,Beauty & Health
+509,33,Male,New York,Sports & Outdoors
+510,68,Female,Chicago,Beauty & Health
+511,54,Female,Chicago,Beauty & Health
+512,39,Female,Dallas,Fashion
+513,46,Female,Phoenix,Home & Garden
+514,31,Female,Dallas,Sports & Outdoors
+515,45,Female,Dallas,Fashion
+516,22,Female,New York,Beauty & Health
+517,64,Female,Los Angeles,Fashion
+518,66,Female,Phoenix,Home & Garden
+519,47,Female,Houston,Sports & Outdoors
+520,63,Female,San Jose,Home & Garden
+521,69,Male,Dallas,Electronics
+522,22,Female,San Antonio,Sports & Outdoors
+523,29,Female,Philadelphia,Home & Garden
+524,33,Male,San Antonio,Beauty & Health
+525,43,Female,New York,Sports & Outdoors
+526,43,Male,New York,Sports & Outdoors
+527,65,Male,San Diego,Fashion
+528,38,Female,Los Angeles,Beauty & Health
+529,56,Male,San Jose,Electronics
+530,53,Female,Dallas,Home & Garden
+531,50,Female,San Antonio,Fashion
+532,47,Female,Philadelphia,Home & Garden
+533,54,Male,New York,Electronics
+534,40,Male,New York,Electronics
+535,27,Female,Los Angeles,Sports & Outdoors
+536,22,Other,Philadelphia,Electronics
+537,53,Female,Philadelphia,Home & Garden
+538,51,Male,Los Angeles,Beauty & Health
+539,69,Female,New York,Beauty & Health
+540,48,Female,San Jose,Sports & Outdoors
+541,27,Female,Phoenix,Home & Garden
+542,36,Male,Phoenix,Home & Garden
+543,49,Female,Los Angeles,Electronics
+544,18,Female,Philadelphia,Home & Garden
+545,22,Other,Dallas,Fashion
+546,62,Male,Los Angeles,Electronics
+547,21,Female,San Jose,Fashion
+548,33,Female,Los Angeles,Sports & Outdoors
+549,41,Male,Chicago,Beauty & Health
+550,33,Female,San Antonio,Sports & Outdoors
+551,19,Female,Philadelphia,Beauty & Health
+552,66,Male,San Diego,Sports & Outdoors
+553,45,Male,San Diego,Home & Garden
+554,49,Female,Philadelphia,Fashion
+555,44,Male,San Jose,Beauty & Health
+556,37,Female,Chicago,Electronics
+557,41,Male,Chicago,Fashion
+558,29,Female,New York,Electronics
+559,67,Male,San Antonio,Fashion
+560,52,Female,Phoenix,Fashion
+561,50,Other,Houston,Sports & Outdoors
+562,50,Other,San Jose,Beauty & Health
+563,68,Female,Houston,Beauty & Health
+564,60,Male,Houston,Fashion
+565,54,Female,Philadelphia,Home & Garden
+566,29,Male,San Diego,Home & Garden
+567,20,Male,San Diego,Electronics
+568,18,Male,Phoenix,Electronics
+569,50,Female,Philadelphia,Sports & Outdoors
+570,57,Female,Houston,Fashion
+571,27,Female,Dallas,Electronics
+572,60,Male,San Diego,Electronics
+573,61,Male,San Jose,Fashion
+574,46,Other,San Jose,Sports & Outdoors
+575,30,Male,New York,Electronics
+576,29,Male,Los Angeles,Sports & Outdoors
+577,48,Male,Dallas,Beauty & Health
+578,63,Female,San Diego,Sports & Outdoors
+579,19,Female,Chicago,Home & Garden
+580,68,Male,San Diego,Home & Garden
+581,67,Male,New York,Sports & Outdoors
+582,52,Female,San Jose,Home & Garden
+583,40,Female,Houston,Beauty & Health
+584,34,Male,Chicago,Fashion
+585,43,Female,Philadelphia,Home & Garden
+586,25,Male,San Antonio,Home & Garden
+587,46,Male,Houston,Sports & Outdoors
+588,43,Female,San Antonio,Beauty & Health
+589,27,Male,Dallas,Fashion
+590,43,Female,Los Angeles,Sports & Outdoors
+591,51,Male,Chicago,Sports & Outdoors
+592,68,Male,Phoenix,Beauty & Health
+593,58,Other,Chicago,Fashion
+594,24,Male,San Diego,Beauty & Health
+595,21,Female,San Jose,Fashion
+596,67,Male,San Diego,Beauty & Health
+597,62,Male,San Diego,Sports & Outdoors
+598,28,Male,Dallas,Sports & Outdoors
+599,46,Female,Houston,Electronics
+600,53,Male,Phoenix,Home & Garden
+601,42,Female,Phoenix,Beauty & Health
+602,38,Male,San Diego,Electronics
+603,53,Other,San Antonio,Home & Garden
+604,27,Male,Dallas,Beauty & Health
+605,54,Female,San Diego,Fashion
+606,26,Female,Los Angeles,Home & Garden
+607,41,Female,San Jose,Sports & Outdoors
+608,52,Female,Houston,Electronics
+609,66,Female,Philadelphia,Home & Garden
+610,52,Female,Los Angeles,Home & Garden
+611,65,Male,San Antonio,Sports & Outdoors
+612,53,Male,Chicago,Beauty & Health
+613,35,Female,Chicago,Fashion
+614,66,Female,Los Angeles,Sports & Outdoors
+615,56,Female,San Diego,Fashion
+616,49,Female,Philadelphia,Beauty & Health
+617,41,Male,New York,Home & Garden
+618,40,Male,New York,Fashion
+619,49,Female,San Antonio,Electronics
+620,54,Male,San Diego,Electronics
+621,29,Male,Phoenix,Sports & Outdoors
+622,66,Female,Phoenix,Beauty & Health
+623,30,Male,Houston,Sports & Outdoors
+624,40,Female,Philadelphia,Sports & Outdoors
+625,42,Male,Philadelphia,Sports & Outdoors
+626,52,Female,Chicago,Electronics
+627,58,Male,Dallas,Electronics
+628,47,Male,San Antonio,Sports & Outdoors
+629,34,Male,New York,Electronics
+630,66,Male,San Antonio,Beauty & Health
+631,37,Male,Phoenix,Sports & Outdoors
+632,65,Male,Phoenix,Electronics
+633,42,Female,Los Angeles,Fashion
+634,39,Male,Houston,Sports & Outdoors
+635,30,Female,Philadelphia,Sports & Outdoors
+636,36,Female,San Jose,Beauty & Health
+637,66,Female,San Antonio,Home & Garden
+638,53,Male,Phoenix,Home & Garden
+639,29,Female,Dallas,Beauty & Health
+640,58,Male,Chicago,Beauty & Health
+641,36,Male,New York,Beauty & Health
+642,29,Other,Houston,Home & Garden
+643,26,Male,Dallas,Beauty & Health
+644,24,Female,Houston,Electronics
+645,45,Female,Los Angeles,Sports & Outdoors
+646,31,Female,San Jose,Sports & Outdoors
+647,48,Female,Phoenix,Fashion
+648,69,Male,Chicago,Fashion
+649,36,Male,Dallas,Sports & Outdoors
+650,64,Female,Houston,Electronics
+651,33,Male,Philadelphia,Home & Garden
+652,22,Male,Los Angeles,Home & Garden
+653,52,Male,Philadelphia,Electronics
+654,29,Male,Chicago,Home & Garden
+655,42,Male,Dallas,Beauty & Health
+656,69,Male,Los Angeles,Sports & Outdoors
+657,38,Female,Dallas,Sports & Outdoors
+658,53,Female,Phoenix,Electronics
+659,40,Female,San Diego,Home & Garden
+660,33,Male,Los Angeles,Fashion
+661,56,Male,Philadelphia,Fashion
+662,62,Male,Chicago,Home & Garden
+663,59,Female,San Jose,Fashion
+664,56,Female,Phoenix,Electronics
+665,31,Male,San Diego,Electronics
+666,48,Female,San Jose,Home & Garden
+667,22,Male,New York,Fashion
+668,52,Female,Phoenix,Electronics
+669,40,Female,Chicago,Electronics
+670,46,Female,Houston,Beauty & Health
+671,60,Female,Los Angeles,Beauty & Health
+672,28,Female,Dallas,Electronics
+673,35,Male,Chicago,Home & Garden
+674,64,Female,Los Angeles,Sports & Outdoors
+675,29,Male,San Jose,Sports & Outdoors
+676,26,Female,Dallas,Electronics
+677,27,Female,San Antonio,Electronics
+678,61,Female,Philadelphia,Electronics
+679,34,Male,New York,Home & Garden
+680,55,Female,Phoenix,Beauty & Health
+681,24,Female,Chicago,Electronics
+682,63,Female,New York,Electronics
+683,30,Male,Houston,Fashion
+684,57,Male,Los Angeles,Home & Garden
+685,59,Male,Los Angeles,Electronics
+686,26,Male,Chicago,Fashion
+687,67,Female,San Diego,Sports & Outdoors
+688,44,Male,San Diego,Electronics
+689,19,Other,San Antonio,Electronics
+690,22,Male,Philadelphia,Fashion
+691,46,Male,Dallas,Home & Garden
+692,54,Female,Houston,Electronics
+693,55,Female,New York,Sports & Outdoors
+694,36,Female,San Diego,Electronics
+695,25,Female,San Antonio,Sports & Outdoors
+696,65,Female,San Antonio,Beauty & Health
+697,62,Male,Chicago,Beauty & Health
+698,18,Other,Houston,Sports & Outdoors
+699,39,Other,San Jose,Home & Garden
+700,69,Female,Dallas,Electronics
+701,34,Male,Philadelphia,Electronics
+702,24,Female,Phoenix,Beauty & Health
+703,42,Male,Chicago,Sports & Outdoors
+704,62,Male,Dallas,Electronics
+705,21,Male,Phoenix,Electronics
+706,53,Male,Phoenix,Home & Garden
+707,23,Female,Houston,Fashion
+708,48,Female,Houston,Beauty & Health
+709,36,Female,New York,Beauty & Health
+710,61,Male,San Antonio,Fashion
+711,56,Male,Dallas,Electronics
+712,44,Male,Chicago,Home & Garden
+713,27,Other,Los Angeles,Home & Garden
+714,43,Male,Chicago,Beauty & Health
+715,36,Female,New York,Home & Garden
+716,56,Female,Philadelphia,Fashion
+717,20,Male,San Antonio,Electronics
+718,62,Female,Los Angeles,Fashion
+719,30,Female,San Diego,Sports & Outdoors
+720,67,Female,Philadelphia,Beauty & Health
+721,45,Female,Houston,Home & Garden
+722,37,Male,Phoenix,Sports & Outdoors
+723,45,Male,San Diego,Home & Garden
+724,25,Female,Chicago,Electronics
+725,58,Female,Chicago,Electronics
+726,56,Male,Houston,Electronics
+727,18,Female,New York,Home & Garden
+728,20,Female,Dallas,Sports & Outdoors
+729,30,Female,San Diego,Electronics
+730,45,Male,San Diego,Sports & Outdoors
+731,66,Female,San Jose,Home & Garden
+732,42,Female,Philadelphia,Sports & Outdoors
+733,50,Male,San Antonio,Home & Garden
+734,55,Male,Philadelphia,Home & Garden
+735,23,Other,Dallas,Beauty & Health
+736,61,Male,Chicago,Home & Garden
+737,62,Female,Chicago,Home & Garden
+738,49,Female,Chicago,Fashion
+739,62,Male,San Jose,Electronics
+740,64,Female,Chicago,Beauty & Health
+741,38,Male,Dallas,Beauty & Health
+742,33,Female,Houston,Beauty & Health
+743,38,Male,San Antonio,Fashion
+744,28,Female,Dallas,Home & Garden
+745,54,Male,San Antonio,Electronics
+746,53,Male,Dallas,Sports & Outdoors
+747,52,Other,Chicago,Home & Garden
+748,36,Male,Houston,Fashion
+749,37,Female,San Diego,Home & Garden
+750,35,Male,Philadelphia,Home & Garden
+751,64,Female,Phoenix,Fashion
+752,58,Male,Houston,Beauty & Health
+753,66,Other,San Diego,Beauty & Health
+754,31,Male,New York,Electronics
+755,32,Male,Dallas,Electronics
+756,48,Male,New York,Beauty & Health
+757,18,Male,San Diego,Sports & Outdoors
+758,20,Female,Houston,Home & Garden
+759,33,Male,Dallas,Sports & Outdoors
+760,40,Female,Phoenix,Home & Garden
+761,28,Male,Chicago,Beauty & Health
+762,29,Male,Dallas,Electronics
+763,27,Female,Dallas,Electronics
+764,49,Female,Houston,Sports & Outdoors
+765,33,Male,Houston,Electronics
+766,25,Male,San Diego,Beauty & Health
+767,55,Male,Los Angeles,Sports & Outdoors
+768,29,Female,Dallas,Home & Garden
+769,41,Female,Philadelphia,Electronics
+770,45,Male,Dallas,Fashion
+771,25,Female,San Diego,Electronics
+772,45,Female,San Antonio,Home & Garden
+773,53,Female,New York,Sports & Outdoors
+774,43,Female,Chicago,Home & Garden
+775,25,Male,Los Angeles,Fashion
+776,67,Male,Phoenix,Beauty & Health
+777,45,Male,Phoenix,Electronics
+778,45,Male,Phoenix,Sports & Outdoors
+779,54,Female,Houston,Beauty & Health
+780,58,Female,Phoenix,Home & Garden
+781,53,Male,Chicago,Sports & Outdoors
+782,44,Male,New York,Beauty & Health
+783,34,Male,Phoenix,Sports & Outdoors
+784,26,Female,Dallas,Fashion
+785,50,Male,Dallas,Fashion
+786,37,Female,Houston,Electronics
+787,30,Male,Chicago,Electronics
+788,45,Male,New York,Fashion
+789,65,Other,Los Angeles,Sports & Outdoors
+790,46,Other,San Diego,Fashion
+791,30,Male,New York,Electronics
+792,63,Female,San Diego,Fashion
+793,52,Female,San Antonio,Fashion
+794,23,Female,San Diego,Sports & Outdoors
+795,35,Male,Philadelphia,Beauty & Health
+796,68,Female,Dallas,Electronics
+797,22,Female,Chicago,Sports & Outdoors
+798,64,Female,San Jose,Fashion
+799,42,Male,Houston,Fashion
+800,19,Male,Philadelphia,Beauty & Health
+801,27,Male,San Diego,Electronics
+802,47,Female,Phoenix,Electronics
+803,67,Male,Chicago,Home & Garden
+804,62,Female,Philadelphia,Electronics
+805,22,Other,Houston,Beauty & Health
+806,50,Male,Dallas,Home & Garden
+807,18,Female,Chicago,Home & Garden
+808,35,Male,Houston,Fashion
+809,49,Female,San Antonio,Fashion
+810,64,Male,San Antonio,Electronics
+811,66,Female,Houston,Home & Garden
+812,28,Female,Philadelphia,Fashion
+813,38,Female,Chicago,Beauty & Health
+814,43,Female,Philadelphia,Fashion
+815,42,Female,Los Angeles,Fashion
+816,39,Female,San Diego,Home & Garden
+817,44,Female,Los Angeles,Home & Garden
+818,66,Female,San Antonio,Sports & Outdoors
+819,30,Male,Dallas,Beauty & Health
+820,50,Female,New York,Home & Garden
+821,51,Female,San Diego,Electronics
+822,58,Female,San Antonio,Beauty & Health
+823,52,Male,Philadelphia,Beauty & Health
+824,18,Female,Philadelphia,Home & Garden
+825,38,Male,Philadelphia,Beauty & Health
+826,65,Female,Dallas,Home & Garden
+827,23,Male,Los Angeles,Fashion
+828,45,Female,New York,Sports & Outdoors
+829,34,Other,Philadelphia,Fashion
+830,22,Male,San Jose,Home & Garden
+831,48,Other,San Diego,Home & Garden
+832,22,Male,Chicago,Fashion
+833,55,Female,San Jose,Electronics
+834,20,Female,New York,Electronics
+835,40,Female,Dallas,Electronics
+836,54,Female,New York,Home & Garden
+837,54,Female,Chicago,Beauty & Health
+838,27,Male,San Diego,Home & Garden
+839,27,Male,Chicago,Beauty & Health
+840,36,Female,Houston,Fashion
+841,34,Female,San Diego,Sports & Outdoors
+842,38,Female,New York,Beauty & Health
+843,31,Female,Philadelphia,Electronics
+844,26,Male,New York,Home & Garden
+845,63,Female,New York,Fashion
+846,18,Male,San Diego,Electronics
+847,68,Female,Houston,Fashion
+848,62,Male,New York,Sports & Outdoors
+849,30,Male,San Jose,Home & Garden
+850,21,Male,San Antonio,Home & Garden
+851,18,Male,Phoenix,Sports & Outdoors
+852,66,Female,Phoenix,Home & Garden
+853,57,Male,New York,Beauty & Health
+854,49,Male,San Jose,Fashion
+855,51,Male,Philadelphia,Electronics
+856,45,Male,Dallas,Sports & Outdoors
+857,48,Male,Dallas,Beauty & Health
+858,25,Male,San Diego,Electronics
+859,56,Female,Phoenix,Electronics
+860,43,Female,New York,Sports & Outdoors
+861,51,Female,Dallas,Beauty & Health
+862,20,Male,New York,Electronics
+863,67,Male,San Diego,Electronics
+864,29,Female,Phoenix,Beauty & Health
+865,18,Female,Chicago,Home & Garden
+866,61,Male,San Antonio,Electronics
+867,22,Male,San Antonio,Fashion
+868,47,Male,Dallas,Beauty & Health
+869,47,Male,San Antonio,Electronics
+870,34,Male,Chicago,Sports & Outdoors
+871,65,Female,New York,Fashion
+872,64,Female,San Diego,Electronics
+873,40,Female,Chicago,Fashion
+874,32,Female,San Diego,Fashion
+875,54,Female,San Diego,Home & Garden
+876,38,Female,Phoenix,Fashion
+877,31,Female,New York,Home & Garden
+878,19,Male,San Jose,Beauty & Health
+879,28,Male,San Antonio,Home & Garden
+880,68,Male,San Jose,Sports & Outdoors
+881,56,Female,Phoenix,Electronics
+882,55,Female,San Diego,Beauty & Health
+883,51,Male,Dallas,Beauty & Health
+884,55,Female,San Antonio,Sports & Outdoors
+885,67,Male,San Antonio,Home & Garden
+886,51,Female,New York,Electronics
+887,35,Male,Houston,Home & Garden
+888,47,Male,Los Angeles,Fashion
+889,32,Female,Los Angeles,Home & Garden
+890,44,Male,Los Angeles,Beauty & Health
+891,68,Male,Houston,Electronics
+892,51,Male,New York,Home & Garden
+893,69,Female,Houston,Electronics
+894,55,Female,Los Angeles,Electronics
+895,50,Male,Phoenix,Fashion
+896,41,Female,Chicago,Fashion
+897,32,Female,San Diego,Beauty & Health
+898,47,Male,Houston,Sports & Outdoors
+899,59,Male,New York,Electronics
+900,68,Male,New York,Sports & Outdoors
+901,34,Male,San Jose,Beauty & Health
+902,22,Female,Chicago,Electronics
+903,46,Male,Dallas,Electronics
+904,21,Female,San Antonio,Sports & Outdoors
+905,27,Female,Los Angeles,Home & Garden
+906,34,Male,Dallas,Fashion
+907,27,Female,San Jose,Home & Garden
+908,34,Male,Los Angeles,Sports & Outdoors
+909,37,Other,Chicago,Fashion
+910,41,Female,San Jose,Home & Garden
+911,22,Female,Los Angeles,Fashion
+912,51,Female,Chicago,Electronics
+913,23,Male,Philadelphia,Home & Garden
+914,19,Female,Dallas,Fashion
+915,30,Female,Dallas,Fashion
+916,60,Female,San Antonio,Fashion
+917,60,Female,Chicago,Home & Garden
+918,65,Female,Houston,Beauty & Health
+919,28,Male,Philadelphia,Home & Garden
+920,68,Male,Phoenix,Sports & Outdoors
+921,64,Female,Los Angeles,Home & Garden
+922,40,Male,Philadelphia,Fashion
+923,33,Female,Chicago,Electronics
+924,48,Female,San Diego,Home & Garden
+925,28,Male,Los Angeles,Home & Garden
+926,33,Male,New York,Fashion
+927,25,Female,Dallas,Electronics
+928,21,Male,Chicago,Electronics
+929,57,Female,New York,Sports & Outdoors
+930,21,Male,San Antonio,Home & Garden
+931,42,Female,San Jose,Electronics
+932,20,Male,Phoenix,Electronics
+933,49,Female,Phoenix,Beauty & Health
+934,20,Male,New York,Beauty & Health
+935,44,Female,Dallas,Electronics
+936,46,Male,San Antonio,Sports & Outdoors
+937,49,Female,San Diego,Electronics
+938,67,Female,Dallas,Fashion
+939,68,Male,Philadelphia,Home & Garden
+940,36,Male,Phoenix,Sports & Outdoors
+941,38,Male,Philadelphia,Fashion
+942,22,Female,Los Angeles,Sports & Outdoors
+943,35,Female,Houston,Fashion
+944,45,Female,Chicago,Home & Garden
+945,59,Male,San Antonio,Home & Garden
+946,39,Male,Dallas,Beauty & Health
+947,38,Female,Phoenix,Fashion
+948,23,Female,Philadelphia,Beauty & Health
+949,18,Other,San Jose,Fashion
+950,22,Male,Los Angeles,Beauty & Health
+951,58,Female,Chicago,Home & Garden
+952,29,Male,Chicago,Sports & Outdoors
+953,43,Male,Dallas,Beauty & Health
+954,63,Female,San Antonio,Fashion
+955,51,Female,San Diego,Fashion
+956,66,Other,San Jose,Home & Garden
+957,31,Male,Dallas,Fashion
+958,43,Male,Philadelphia,Electronics
+959,62,Female,Houston,Sports & Outdoors
+960,44,Female,New York,Beauty & Health
+961,26,Male,San Diego,Sports & Outdoors
+962,43,Male,San Antonio,Home & Garden
+963,64,Male,Los Angeles,Beauty & Health
+964,39,Female,San Diego,Beauty & Health
+965,64,Male,Phoenix,Electronics
+966,47,Male,San Antonio,Home & Garden
+967,60,Male,Houston,Fashion
+968,65,Male,Phoenix,Electronics
+969,34,Male,San Diego,Electronics
+970,43,Female,New York,Sports & Outdoors
+971,53,Male,New York,Sports & Outdoors
+972,18,Female,Houston,Sports & Outdoors
+973,25,Male,Chicago,Electronics
+974,66,Female,San Jose,Fashion
+975,52,Female,Los Angeles,Beauty & Health
+976,69,Female,Chicago,Sports & Outdoors
+977,32,Female,New York,Fashion
+978,64,Male,New York,Home & Garden
+979,39,Male,Philadelphia,Sports & Outdoors
+980,31,Female,Phoenix,Beauty & Health
+981,43,Other,San Diego,Home & Garden
+982,45,Female,Los Angeles,Home & Garden
+983,40,Female,Houston,Beauty & Health
+984,31,Female,San Diego,Sports & Outdoors
+985,41,Male,Philadelphia,Electronics
+986,19,Male,New York,Beauty & Health
+987,62,Female,Houston,Beauty & Health
+988,43,Female,New York,Beauty & Health
+989,31,Male,Los Angeles,Home & Garden
+990,68,Female,Phoenix,Fashion
+991,24,Male,San Diego,Electronics
+992,20,Female,San Diego,Sports & Outdoors
+993,64,Male,Chicago,Sports & Outdoors
+994,40,Male,Houston,Fashion
+995,63,Female,San Jose,Beauty & Health
+996,60,Male,Philadelphia,Electronics
+997,64,Female,San Jose,Sports & Outdoors
+998,62,Female,Chicago,Sports & Outdoors
+999,35,Female,Los Angeles,Beauty & Health
+1000,55,Male,Philadelphia,Fashion

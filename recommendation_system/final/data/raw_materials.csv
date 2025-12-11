@@ -1,0 +1,201 @@
+material_id,name,category,supplier_id,unit_cost
+1,Silk Grade 1,Textiles,3,21.36
+2,Nylon Grade 2,Textiles,5,4.71
+3,Cotton Grade 3,Textiles,7,7.78
+4,Wool Grade 4,Textiles,4,9.65
+5,Wool Grade 5,Textiles,17,19.17
+6,Silk Grade 6,Textiles,20,2.28
+7,Polyester Grade 7,Textiles,10,5.86
+8,Silk Grade 8,Textiles,4,17.43
+9,Wool Grade 9,Textiles,6,10.95
+10,Nylon Grade 10,Textiles,19,17.92
+11,Silk Grade 11,Textiles,3,14.73
+12,Nylon Grade 12,Textiles,15,11.91
+13,Wool Grade 13,Textiles,15,28.97
+14,Polyester Grade 14,Textiles,11,28.35
+15,Cotton Grade 15,Textiles,4,21.77
+16,Nylon Grade 16,Textiles,13,12.3
+17,Cotton Grade 17,Textiles,17,2.58
+18,Cotton Grade 18,Textiles,16,22.48
+19,Polyester Grade 19,Textiles,17,13.22
+20,Nylon Grade 20,Textiles,5,14.1
+21,Cotton Grade 21,Textiles,14,10.96
+22,Nylon Grade 22,Textiles,14,29.58
+23,Wool Grade 23,Textiles,17,6.64
+24,Nylon Grade 24,Textiles,7,24.28
+25,Nylon Grade 25,Textiles,13,27.3
+26,Nylon Grade 26,Textiles,19,17.94
+27,Cotton Grade 27,Textiles,12,22.89
+28,Nylon Grade 28,Textiles,9,9.48
+29,Polyester Grade 29,Textiles,13,8.14
+30,Nylon Grade 30,Textiles,5,29.46
+31,Silk Grade 31,Textiles,20,24.49
+32,Silk Grade 32,Textiles,20,13.7
+33,Nylon Grade 33,Textiles,13,27.36
+34,Cotton Grade 34,Textiles,1,19.51
+35,Polyester Grade 35,Textiles,4,2.34
+36,Wool Grade 36,Textiles,14,10.07
+37,Cotton Grade 37,Textiles,5,23.1
+38,Wool Grade 38,Textiles,14,13.76
+39,Polyester Grade 39,Textiles,11,25.15
+40,Nylon Grade 40,Textiles,14,14.5
+41,LED Grade 41,Electronics Components,7,46.35
+42,Microchips Grade 42,Electronics Components,5,39.37
+43,LED Grade 43,Electronics Components,3,4.95
+44,LED Grade 44,Electronics Components,7,42.64
+45,LED Grade 45,Electronics Components,8,21.52
+46,Batteries Grade 46,Electronics Components,16,41.09
+47,LED Grade 47,Electronics Components,2,27.39
+48,Batteries Grade 48,Electronics Components,18,17.16
+49,Microchips Grade 49,Electronics Components,2,41.71
+50,Resistors Grade 50,Electronics Components,8,15.92
+51,Capacitors Grade 51,Electronics Components,13,45.48
+52,Batteries Grade 52,Electronics Components,9,45.98
+53,LED Grade 53,Electronics Components,8,8.66
+54,Resistors Grade 54,Electronics Components,20,12.28
+55,LED Grade 55,Electronics Components,1,29.73
+56,LED Grade 56,Electronics Components,7,29.86
+57,Resistors Grade 57,Electronics Components,12,27.8
+58,Microchips Grade 58,Electronics Components,14,38.96
+59,LED Grade 59,Electronics Components,11,7.77
+60,Batteries Grade 60,Electronics Components,8,7.4
+61,Microchips Grade 61,Electronics Components,7,8.88
+62,Batteries Grade 62,Electronics Components,19,44.72
+63,Capacitors Grade 63,Electronics Components,15,9.72
+64,Batteries Grade 64,Electronics Components,8,17.41
+65,Resistors Grade 65,Electronics Components,20,23.38
+66,Resistors Grade 66,Electronics Components,2,24.27
+67,Batteries Grade 67,Electronics Components,9,23.32
+68,Resistors Grade 68,Electronics Components,10,2.68
+69,LED Grade 69,Electronics Components,17,8.62
+70,LED Grade 70,Electronics Components,18,2.27
+71,Resistors Grade 71,Electronics Components,8,37.81
+72,LED Grade 72,Electronics Components,19,11.58
+73,Resistors Grade 73,Electronics Components,7,1.25
+74,LED Grade 74,Electronics Components,8,35.58
+75,Batteries Grade 75,Electronics Components,11,13.35
+76,LED Grade 76,Electronics Components,5,37.82
+77,Resistors Grade 77,Electronics Components,3,17.63
+78,Microchips Grade 78,Electronics Components,15,38.82
+79,Batteries Grade 79,Electronics Components,18,26.4
+80,Batteries Grade 80,Electronics Components,17,40.47
+81,Solvents Grade 81,Chemicals,6,43.7
+82,Preservatives Grade 82,Chemicals,6,75.59
+83,Solvents Grade 83,Chemicals,9,74.61
+84,Fragrances Grade 84,Chemicals,15,93.5
+85,Emulsifiers Grade 85,Chemicals,12,13.54
+86,Emulsifiers Grade 86,Chemicals,12,82.44
+87,Colorants Grade 87,Chemicals,2,40.22
+88,Solvents Grade 88,Chemicals,6,57.05
+89,Colorants Grade 89,Chemicals,9,54.83
+90,Emulsifiers Grade 90,Chemicals,5,10.99
+91,Fragrances Grade 91,Chemicals,15,85.81
+92,Solvents Grade 92,Chemicals,5,84.51
+93,Colorants Grade 93,Chemicals,5,26.12
+94,Colorants Grade 94,Chemicals,11,78.09
+95,Solvents Grade 95,Chemicals,5,94.17
+96,Colorants Grade 96,Chemicals,12,36.4
+97,Preservatives Grade 97,Chemicals,18,43.42
+98,Colorants Grade 98,Chemicals,2,28.26
+99,Emulsifiers Grade 99,Chemicals,3,5.13
+100,Fragrances Grade 100,Chemicals,7,95.44
+101,Emulsifiers Grade 101,Chemicals,2,96.33
+102,Solvents Grade 102,Chemicals,6,70.18
+103,Emulsifiers Grade 103,Chemicals,15,6.04
+104,Colorants Grade 104,Chemicals,3,75.46
+105,Emulsifiers Grade 105,Chemicals,2,36.33
+106,Fragrances Grade 106,Chemicals,5,73.33
+107,Colorants Grade 107,Chemicals,17,72.11
+108,Fragrances Grade 108,Chemicals,11,90.76
+109,Fragrances Grade 109,Chemicals,9,95.74
+110,Colorants Grade 110,Chemicals,10,40.51
+111,Colorants Grade 111,Chemicals,14,84.86
+112,Fragrances Grade 112,Chemicals,12,42.09
+113,Emulsifiers Grade 113,Chemicals,5,57.98
+114,Colorants Grade 114,Chemicals,20,89.95
+115,Fragrances Grade 115,Chemicals,5,62.33
+116,Colorants Grade 116,Chemicals,11,43.47
+117,Preservatives Grade 117,Chemicals,10,90.12
+118,Fragrances Grade 118,Chemicals,14,73.96
+119,Emulsifiers Grade 119,Chemicals,3,8.0
+120,Preservatives Grade 120,Chemicals,20,52.37
+121,Plastic Film Grade 121,Packaging,5,0.74
+122,Plastic Film Grade 122,Packaging,9,4.4
+123,Glass Bottles Grade 123,Packaging,10,7.29
+124,Glass Bottles Grade 124,Packaging,10,2.21
+125,Metal Cans Grade 125,Packaging,6,4.24
+126,Glass Bottles Grade 126,Packaging,12,9.92
+127,Cardboard Grade 127,Packaging,4,1.83
+128,Glass Bottles Grade 128,Packaging,3,3.7
+129,Glass Bottles Grade 129,Packaging,3,5.72
+130,Plastic Film Grade 130,Packaging,12,7.03
+131,Glass Bottles Grade 131,Packaging,3,6.79
+132,Cardboard Grade 132,Packaging,6,2.8
+133,Cardboard Grade 133,Packaging,13,3.22
+134,Labels Grade 134,Packaging,18,2.25
+135,Labels Grade 135,Packaging,19,4.75
+136,Metal Cans Grade 136,Packaging,19,5.96
+137,Labels Grade 137,Packaging,2,9.51
+138,Cardboard Grade 138,Packaging,2,2.77
+139,Cardboard Grade 139,Packaging,3,9.81
+140,Plastic Film Grade 140,Packaging,7,2.43
+141,Glass Bottles Grade 141,Packaging,11,4.77
+142,Metal Cans Grade 142,Packaging,1,8.67
+143,Cardboard Grade 143,Packaging,2,4.69
+144,Metal Cans Grade 144,Packaging,14,8.07
+145,Metal Cans Grade 145,Packaging,18,9.72
+146,Plastic Film Grade 146,Packaging,8,5.18
+147,Glass Bottles Grade 147,Packaging,11,8.03
+148,Glass Bottles Grade 148,Packaging,19,4.39
+149,Metal Cans Grade 149,Packaging,4,7.72
+150,Metal Cans Grade 150,Packaging,2,7.83
+151,Plastic Film Grade 151,Packaging,3,5.11
+152,Glass Bottles Grade 152,Packaging,15,7.31
+153,Cardboard Grade 153,Packaging,11,2.17
+154,Plastic Film Grade 154,Packaging,5,2.03
+155,Plastic Film Grade 155,Packaging,10,6.0
+156,Plastic Film Grade 156,Packaging,1,7.63
+157,Cardboard Grade 157,Packaging,3,0.55
+158,Metal Cans Grade 158,Packaging,11,3.04
+159,Cardboard Grade 159,Packaging,8,6.68
+160,Metal Cans Grade 160,Packaging,17,3.12
+161,Brass Grade 161,Metals,20,59.26
+162,Brass Grade 162,Metals,17,22.54
+163,Steel Grade 163,Metals,16,88.14
+164,Titanium Grade 164,Metals,17,30.14
+165,Brass Grade 165,Metals,1,89.25
+166,Titanium Grade 166,Metals,9,71.42
+167,Aluminum Grade 167,Metals,19,170.42
+168,Aluminum Grade 168,Metals,8,98.89
+169,Copper Grade 169,Metals,5,84.88
+170,Brass Grade 170,Metals,8,92.34
+171,Brass Grade 171,Metals,12,170.98
+172,Brass Grade 172,Metals,5,157.56
+173,Steel Grade 173,Metals,3,60.69
+174,Copper Grade 174,Metals,13,51.93
+175,Aluminum Grade 175,Metals,14,131.08
+176,Titanium Grade 176,Metals,10,45.25
+177,Steel Grade 177,Metals,3,61.46
+178,Brass Grade 178,Metals,15,73.59
+179,Aluminum Grade 179,Metals,14,81.81
+180,Brass Grade 180,Metals,1,167.5
+181,Aluminum Grade 181,Metals,5,36.55
+182,Brass Grade 182,Metals,15,80.91
+183,Steel Grade 183,Metals,19,93.67
+184,Aluminum Grade 184,Metals,16,168.27
+185,Steel Grade 185,Metals,6,79.41
+186,Brass Grade 186,Metals,11,183.06
+187,Aluminum Grade 187,Metals,19,148.97
+188,Brass Grade 188,Metals,19,190.82
+189,Aluminum Grade 189,Metals,20,62.34
+190,Titanium Grade 190,Metals,2,171.77
+191,Titanium Grade 191,Metals,5,179.39
+192,Copper Grade 192,Metals,14,99.42
+193,Copper Grade 193,Metals,2,96.94
+194,Aluminum Grade 194,Metals,4,32.66
+195,Titanium Grade 195,Metals,6,92.03
+196,Titanium Grade 196,Metals,4,26.67
+197,Copper Grade 197,Metals,9,47.24
+198,Steel Grade 198,Metals,18,69.94
+199,Titanium Grade 199,Metals,6,99.99
+200,Steel Grade 200,Metals,11,116.79
